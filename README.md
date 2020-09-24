@@ -178,3 +178,7 @@ Since the main aim of this project is to focus on developing and deploying a mac
 - More sophisticated hyperparameter tuning (Bayesian search, AutoML)
 - Feature selection based on feature importance
 - Apply interpretation methods (e.g. SHAP) to understand the patient's condition and suggest potential treatment
+
+## Data source
+
+Ahmad T, Munir A, Bhatti SH, Aftab M, Ali Raza M. Survival analysis of heart failure patients: a case study. [Dataset](https://plos.figshare.com/articles/Survival_analysis_of_heart_failure_patients_A_case_study/5227684/1)
