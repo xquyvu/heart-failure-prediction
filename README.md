@@ -2,6 +2,19 @@
 
 This project utilises Python and Azure suite of products to provide prediction for heart failure.
 
+## :trophy::trophy::trophy: Prizes won :trophy::trophy::trophy:
+
+This project won 2 prizes in a 50-team competition, organised by Udacity and Microsoft.
+
+### :earth_asia: Category winner for Impact and potential
+Based on the impact that the project may create on society, for the betterment of technology, humanity, as a business model which solves a major issue.
+
+### :star2: Community Choice Award
+Based on the approval of the 10,000 participants of the program community of 3 criteria: Innovation, Positive Impact, and Presentation.
+
+[Rules of the competition](https://github.com/mhmohona/MicrosoftML-ProjectShowcasing) <br>
+[Original submission of this project](https://github.com/mhmohona/MicrosoftML-ProjectShowcasing/tree/master/project/Quy%20Vu)
+
 ## 1. Overview
 
 ### 1.1. Team member
