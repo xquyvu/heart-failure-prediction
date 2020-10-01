@@ -195,3 +195,9 @@ Since the main aim of this project is to focus on developing and deploying a mac
 ## Data source
 
 Ahmad T, Munir A, Bhatti SH, Aftab M, Ali Raza M. Survival analysis of heart failure patients: a case study. [Dataset](https://plos.figshare.com/articles/Survival_analysis_of_heart_failure_patients_A_case_study/5227684/1)
+
+
+<p align="center">
+  <img src="https://i.imgur.com/qzy9EqT.jpg" width="400" />
+  <img src="https://i.imgur.com/OqB40Ad.jpg" width="400" /> 
+</p>
